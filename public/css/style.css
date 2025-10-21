@@ -1,0 +1,38 @@
+/* ... (Styles précédents) ... */
+
+/* Styles pour les formulaires d'authentification */
+.auth-form input[type="email"],
+.auth-form input[type="text"],
+.auth-form input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.auth-form button {
+    width: 100%;
+    padding: 12px;
+    background-color: #0078D4; /* Utilisez une couleur distincte pour l'auth */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.auth-form button:hover {
+    background-color: #005a9e;
+}
+.switch-link {
+    margin-top: 15px;
+    font-size: 0.9em;
+}
+.switch-link a {
+    color: #0078D4;
+    text-decoration: none;
+}
+.hidden {
+    display: none;
+}
+/* ... (Autres styles inchangés) ... */
