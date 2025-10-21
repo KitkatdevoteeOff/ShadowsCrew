@@ -1,0 +1,7 @@
+{
+  "test@example.com": {
+    "password_hash": "$2b$10$XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX", 
+    "minecraft_pseudo": "TestPlayer",
+    "uuid": "41a7d66d-1481-4357-9d7a-18b0f9467f91"
+  }
+}
